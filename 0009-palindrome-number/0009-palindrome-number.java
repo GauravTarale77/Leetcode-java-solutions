@@ -4,16 +4,17 @@ class Solution {
         if(x < 0){
             return false;
         }
-        while(x != 0){
-            int n = x % 10;
-            arr.add(n);
+        int original = x;
+        int reverse = 0;
+        while(x > 0){
+            int digit = x % 10;
+            reverse = reverse * 10 + digit;
             x /= 10;
         }
-        for(int i = 0; i<arr.size()/2; i++){
-            if(arr.get(i) != arr.get(arr.size()-1-i)){
-                return false;
-            }
+        if(original == reverse){
+            return true;
+        }else{
+            return false;
         }
-        return true;
     }
 }
