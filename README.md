@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-best-sightseeing-pair](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0053-maximum-subarray) |
+| [1014-best-sightseeing-pair](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1014-best-sightseeing-pair) |
 ## Math
 |  |
 | ------- |
