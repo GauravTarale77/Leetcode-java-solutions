@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0152-maximum-product-subarray) |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 ## Recursion
 |  |
 | ------- |
