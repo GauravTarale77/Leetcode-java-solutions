@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0008-string-to-integer-atoi) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
