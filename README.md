@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
