@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0053-maximum-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
