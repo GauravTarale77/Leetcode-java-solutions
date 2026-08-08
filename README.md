@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1406-stone-game-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
