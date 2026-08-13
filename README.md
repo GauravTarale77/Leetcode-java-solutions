@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0877-stone-game) |
@@ -220,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
