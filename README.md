@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
@@ -254,5 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
