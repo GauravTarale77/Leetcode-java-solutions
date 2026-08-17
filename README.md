@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -269,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
