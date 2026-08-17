@@ -1,57 +1,30 @@
 class Solution {
-    public int game(int dp[][], int a[], int i, int j, int total) {
-
-        if(i >= j){
-            return 0;
-        }
-
-        if(dp[i][j] != -1){
-            return dp[i][j];
-        } 
-
-        int ans = 0;
-        int sum_tillk = 0;
-
-        for(int k = i; k < j; k++){
-            sum_tillk += a[k];
-            int sum_afterk = total - sum_tillk;
-
-            if(sum_tillk > sum_afterk){
-                ans = Math.max(
-                    ans,
-                    sum_afterk + game(
-                        dp, a, k + 1, j, sum_afterk
-                    )
-                );
-            }else if(sum_tillk < sum_afterk) {
-                ans = Math.max(
-                    ans,
-                    sum_tillk + game(
-                        dp, a, i, k, sum_tillk
-                    )
-                );
-            } else{
-                ans = Math.max(
-                    ans,
-                    sum_tillk + Math.max(
-                        game(dp, a, k + 1, j, sum_afterk),
-                        game(dp, a, i, k, sum_tillk)
-                    )
-                );
-            }
-        }
-        return dp[i][j] = ans;
-    }
-
     public int stoneGameV(int[] stoneValue) {
         int n = stoneValue.length;
-        int dp[][] = new int[n][n];
-        int total_sum = 0;
-
+        int[] sum = new int[n + 1];
         for (int i = 0; i < n; i++) {
-            total_sum += stoneValue[i];
-            Arrays.fill(dp[i], -1);
+            sum[i + 1] = sum[i] + stoneValue[i];
         }
-        return game(dp, stoneValue, 0, n - 1, total_sum);
+
+        int[] f = new int[n + 1];
+        int[][] sufMax = new int[n + 1][n + 1];
+
+        for (int i = n - 1; i >= 0; i--) {
+            sufMax[i + 1][i + 1] = Integer.MIN_VALUE;
+            sufMax[i][i + 1] = -sum[i]; 
+            int preMax = 0;
+            int k = i + 1;
+            for (int j = i + 2; j <= n; j++) {
+                while (sum[k] - sum[i] <= sum[j] - sum[k]) {
+                    preMax = Math.max(preMax, f[k] + sum[k]);
+                    k++;
+                }
+                int q = sum[k - 1] - sum[i] == sum[j] - sum[k - 1] ? k - 1 : k;
+                f[j] = Math.max(preMax - sum[i], sufMax[q][j] + sum[j]);
+                sufMax[i][j] = Math.max(sufMax[i + 1][j], f[j] - sum[i]);
+            }
+        }
+
+        return f[n];
     }
 }
