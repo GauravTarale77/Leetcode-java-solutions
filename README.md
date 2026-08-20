@@ -295,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
