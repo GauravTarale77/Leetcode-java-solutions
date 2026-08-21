@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0877-stone-game) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0175-combine-two-tables) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
