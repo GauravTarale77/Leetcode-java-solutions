@@ -1,18 +1,40 @@
 class Solution {
-  public boolean sumGame(String num) {
-    final int n = num.length();
-    double ans = 0.0;
+    public boolean sumGame(String num) {
+        int n = num.length();
+        int half = n / 2;
 
-    for (int i = 0; i < n / 2; i++)
-      ans += getExpectation(num.charAt(i));
+        int leftSum = 0;
+        int rightSum = 0;
+        int leftQ = 0;
+        int rightQ = 0;
 
-    for (int i = n / 2; i < n; i++)
-      ans -= getExpectation(num.charAt(i));
+        for(int i = 0; i < half; i++){
+            char c = num.charAt(i);
 
-    return ans != 0.0;
-  }
+            if(c == '?'){
+                leftQ++;
+            }else{
+                leftSum += c - '0';
+            }
+        }
 
-  private double getExpectation(char c) {
-    return c == '?' ? 4.5 : c - '0';
-  }
+        for(int i = half; i < n; i++){
+            char c = num.charAt(i);
+
+            if(c == '?'){
+                rightQ++;
+            }else{
+                rightSum += c - '0';
+            }
+        }
+
+        int qDiff = leftQ - rightQ;
+        int sumDiff = leftSum - rightSum;
+
+        if(qDiff % 2 != 0){
+            return true;
+        }
+
+        return sumDiff + 9 * (qDiff / 2) != 0;
+    }
 }
