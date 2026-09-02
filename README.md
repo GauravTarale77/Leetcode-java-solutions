@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Recursion
