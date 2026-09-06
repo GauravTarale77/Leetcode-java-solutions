@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
