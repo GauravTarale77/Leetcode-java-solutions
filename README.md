@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1140-stone-game-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1140-stone-game-ii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
