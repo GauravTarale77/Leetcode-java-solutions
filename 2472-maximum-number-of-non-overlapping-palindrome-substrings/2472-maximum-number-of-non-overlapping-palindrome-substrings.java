@@ -6,18 +6,18 @@ class Solution {
             return n;
         }
 
-        int res = 0;
+        int count = 0;
 
         for(int i = 0; i <= n-k; i++){
             if(isPalindrome(s, i, i + k - 1)){
-                res++;
+                count++;
                 i += k-1;
             }else if(i < n - k && isPalindrome(s, i, i + k)){
-                res++;
+                count++;
                 i += k;
             }
         }
-        return res;
+        return count;
     }
     private boolean isPalindrome(String s, int i, int j){
         for(; i < j; i++, j--){
