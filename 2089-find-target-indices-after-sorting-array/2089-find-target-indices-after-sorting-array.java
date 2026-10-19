@@ -8,9 +8,6 @@ class Solution {
             if(nums[i] == target){
                 ans.add(i);
             }
-            if(nums[i] > target){
-                break;
-            }
         }
         return ans;
     }
