@@ -1,43 +1,44 @@
 class Solution {
+    public boolean check(int[] nums, int len) {
+        int n = nums.length;
+        int minn = 0;
+        
+        for (int i = 0; i < n; i += len) {
+            if (nums[i] < minn) return false;
+            
+            int maxx = nums[i];
+            boolean point = false;
+            
+            for (int j = i + 1; j < i + len; j++) {
+                if (nums[j] < minn) return false;
+                
+                if (nums[j - 1] > nums[j]) {
+                    if (point) return false;
+                    point = true;
+                }
+                
+                maxx = Math.max(maxx, nums[j]);
+            }
+            
+            if (point) {
+                if (nums[i] < nums[i + len - 1]) return false;
+            }
+            
+            minn = maxx;
+        }
+        
+        return true;
+    }
+    
     public int sortableIntegers(int[] nums) {
         int n = nums.length;
-        int[] sorted = nums.clone();
-        Arrays.sort(sorted);
-        List<Integer> divs = new ArrayList<>();
-        for (int i = 1; i * i <= n; i++) {
-            if (n % i == 0) {
-                divs.add(i);
-                if (i != n / i) divs.add(n / i);
-            }
-        }
         int ans = 0;
-        for (int k : divs) {
-            boolean ok = true;
-            for (int s = 0; s < n && ok; s += k) {
-                int desc = 0, pos = -1;
-                for (int j = 0; j < k; j++) {
-                    int a = nums[s + j];
-                    int b = nums[s + (j + 1) % k];
-                    if (a > b) {
-                        desc++;
-                        pos = j;
-                        if (desc > 1) break;
-                    }
-                }
-                if (desc > 1) {
-                    ok = false;
-                    break;
-                }
-                int r = (desc == 0) ? 0 : (pos + 1) % k;
-                for (int j = 0; j < k; j++) {
-                    if (nums[s + (r + j) % k] != sorted[s + j]) {
-                        ok = false;
-                        break;
-                    }
-                }
-            }
-            if (ok) ans += k;
+        
+        for (int k = 1; k <= n; k++) {
+            if (n % k != 0) continue;
+            if (check(nums, k)) ans += k;
         }
+        
         return ans;
     }
 }
