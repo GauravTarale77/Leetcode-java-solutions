@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
