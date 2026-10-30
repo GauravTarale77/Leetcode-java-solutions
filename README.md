@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
