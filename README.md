@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0344-reverse-string) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
