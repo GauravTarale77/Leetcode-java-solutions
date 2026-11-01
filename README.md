@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0835-image-overlap) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0836-rectangle-overlap) |
