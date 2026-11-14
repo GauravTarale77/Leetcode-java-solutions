@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0115-distinct-subsequences) |
+| [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2747-count-zero-request-servers) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -553,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -684,4 +690,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
