@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
