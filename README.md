@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
