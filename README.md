@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -715,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
