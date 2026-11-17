@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [1096-brace-expansion-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1096-brace-expansion-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
