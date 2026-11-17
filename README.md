@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GauravTarale77/Leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
